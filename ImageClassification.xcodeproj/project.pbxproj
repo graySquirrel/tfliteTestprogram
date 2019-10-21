@@ -10,6 +10,7 @@
 		1928BD9F22FDFE8C00FA418E /* ResNet_depth_2_quant.tflite in Resources */ = {isa = PBXBuildFile; fileRef = 1928BD9E22FDFE8C00FA418E /* ResNet_depth_2_quant.tflite */; };
 		1970D50D23044CC200BAC5E5 /* Aug_ResNet_depth_quant.tflite in Resources */ = {isa = PBXBuildFile; fileRef = 1970D50C23044CC200BAC5E5 /* Aug_ResNet_depth_quant.tflite */; };
 		1970D50F2305B75D00BAC5E5 /* ResNet_model5.tflite in Resources */ = {isa = PBXBuildFile; fileRef = 1970D50E2305B75D00BAC5E5 /* ResNet_model5.tflite */; };
+		1970D5112305E4AC00BAC5E5 /* ResNet_model6.tflite in Resources */ = {isa = PBXBuildFile; fileRef = 1970D5102305E4AC00BAC5E5 /* ResNet_model6.tflite */; };
 		19CF128722FB76180043A301 /* labels.txt in Resources */ = {isa = PBXBuildFile; fileRef = 19CF128622FB76180043A301 /* labels.txt */; };
 		19CF128822FB76B00043A301 /* mobileNet_depth_2.tflite in Resources */ = {isa = PBXBuildFile; fileRef = 19CF128422FB76060043A301 /* mobileNet_depth_2.tflite */; };
 		AA16E5A22180843800D9E153 /* InfoCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = AA16E5A12180843700D9E153 /* InfoCell.swift */; };
@@ -34,6 +35,7 @@
 		1928BD9E22FDFE8C00FA418E /* ResNet_depth_2_quant.tflite */ = {isa = PBXFileReference; lastKnownFileType = file; path = ResNet_depth_2_quant.tflite; sourceTree = "<group>"; };
 		1970D50C23044CC200BAC5E5 /* Aug_ResNet_depth_quant.tflite */ = {isa = PBXFileReference; lastKnownFileType = file; path = Aug_ResNet_depth_quant.tflite; sourceTree = "<group>"; };
 		1970D50E2305B75D00BAC5E5 /* ResNet_model5.tflite */ = {isa = PBXFileReference; lastKnownFileType = file; path = ResNet_model5.tflite; sourceTree = "<group>"; };
+		1970D5102305E4AC00BAC5E5 /* ResNet_model6.tflite */ = {isa = PBXFileReference; lastKnownFileType = file; path = ResNet_model6.tflite; sourceTree = "<group>"; };
 		19CF127A22FB755C0043A301 /* mobileNet_depth_2.tflite */ = {isa = PBXFileReference; lastKnownFileType = file; name = mobileNet_depth_2.tflite; path = ../../../../../../../Downloads/mobileNet_depth_2.tflite; sourceTree = "<group>"; };
 		19CF128422FB76060043A301 /* mobileNet_depth_2.tflite */ = {isa = PBXFileReference; lastKnownFileType = file; path = mobileNet_depth_2.tflite; sourceTree = "<group>"; };
 		19CF128522FB76120043A301 /* mobilenet_quant_v1_224.tflite */ = {isa = PBXFileReference; lastKnownFileType = file; path = mobilenet_quant_v1_224.tflite; sourceTree = "<group>"; };
@@ -108,6 +110,7 @@
 			children = (
 				1928BD9E22FDFE8C00FA418E /* ResNet_depth_2_quant.tflite */,
 				19CF128522FB76120043A301 /* mobilenet_quant_v1_224.tflite */,
+				1970D5102305E4AC00BAC5E5 /* ResNet_model6.tflite */,
 				19CF128622FB76180043A301 /* labels.txt */,
 				1970D50E2305B75D00BAC5E5 /* ResNet_model5.tflite */,
 				1970D50C23044CC200BAC5E5 /* Aug_ResNet_depth_quant.tflite */,
@@ -268,6 +271,7 @@
 				AAE79E61213521DB00E7AC1F /* Assets.xcassets in Resources */,
 				AA5FEB7E21355CCC00F9BD4B /* labels.txt in Resources */,
 				AAE79E5F213521DA00E7AC1F /* Main.storyboard in Resources */,
+				1970D5112305E4AC00BAC5E5 /* ResNet_model6.tflite in Resources */,
 				AA5FEB7D21355CCC00F9BD4B /* mobilenet_quant_v1_224.tflite in Resources */,
 				1928BD9F22FDFE8C00FA418E /* ResNet_depth_2_quant.tflite in Resources */,
 			);

@@ -40,7 +40,8 @@ enum MobileNet {
     //static let modelInfo: FileInfo = (name: "mobileNet_depth_2", extension: "tflite")
     //static let modelInfo: FileInfo = (name: "ResNet_depth_2_quant", extension: "tflite")
     //static let modelInfo: FileInfo = (name: "Aug_ResNet_depth_quant", extension: "tflite")
-    static let modelInfo: FileInfo = (name: "ResNet_model5", extension: "tflite")
+    //static let modelInfo: FileInfo = (name: "ResNet_model5", extension: "tflite")
+    static let modelInfo: FileInfo = (name: "ResNet_model6", extension: "tflite")
   static let labelsInfo: FileInfo = (name: "labels", extension: "txt")
 }
 
